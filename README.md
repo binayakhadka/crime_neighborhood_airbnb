@@ -1,3 +1,3 @@
 # crime_neighborhood_airbnb
 
-![banner](
+![banner](Airbnb Logo copy.jpg)
