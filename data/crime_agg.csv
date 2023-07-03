@@ -1,0 +1,1832 @@
+zip_code,crime_type,Total_crimes
+78610,Assault With Injury,1
+78610,Auto Theft,1
+78610,Burglary Non Residence,1
+78610,Burglary Of Residence,1
+78610,Burglary Of Vehicle,1
+78610,Criminal Trespass,1
+78610,DWI,1
+78610,Disturbance - Other,1
+78610,Family Disturbance,1
+78610,Theft,4
+78610,Theft Of Trailer,1
+78613,Aggravated Assault,39
+78613,Aggravated Robbery,55
+78613,Assault By Contact,96
+78613,Assault On Public Servant,4
+78613,Assault With Injury,209
+78613,Auto Theft,159
+78613,Burglary Non Residence,135
+78613,Burglary Of Residence,36
+78613,Burglary Of Vehicle,927
+78613,Counterfeiting,16
+78613,Criminal Mischief,295
+78613,Criminal Trespass,126
+78613,DWI,159
+78613,Dating Disturbance,43
+78613,Deadly Conduct,3
+78613,Debit/Credit Card Abuse,186
+78613,Disturbance - Other,184
+78613,Driving While Intox / Felony,8
+78613,Family Disturbance,352
+78613,Forgery - Other,15
+78613,Fraud - Other,56
+78613,Harassment,99
+78613,Identity Theft,58
+78613,Narcotic Possession,40
+78613,Possession of Drug,29
+78613,Robbery By Threat,7
+78613,Terroristic Threat,39
+78613,Theft,1970
+78613,Theft By Shoplifting,2286
+78613,Theft Catalytic Converter,38
+78613,Theft From Auto,28
+78613,Theft From Building,18
+78613,Theft From Person,17
+78613,Theft Of Auto Parts,19
+78613,Theft Of Bicycle,32
+78613,Theft Of License Plate,41
+78613,Theft Of Trailer,10
+78613,Unlawful Carrying Weapon,6
+78613,Violation City Ordinance,8
+78617,Aggravated Assault,339
+78617,Aggravated Robbery,103
+78617,Assault By Contact,484
+78617,Assault On Public Servant,13
+78617,Assault With Injury,1562
+78617,Auto Theft,368
+78617,Burglary Non Residence,306
+78617,Burglary Of Residence,880
+78617,Burglary Of Vehicle,1080
+78617,Counterfeiting,20
+78617,Criminal Mischief,1098
+78617,Criminal Trespass,234
+78617,DWI,283
+78617,Dating Disturbance,79
+78617,Deadly Conduct,34
+78617,Debit/Credit Card Abuse,158
+78617,Disturbance - Other,588
+78617,Driving While Intox / Felony,19
+78617,Family Disturbance,2936
+78617,Forgery - Other,11
+78617,Fraud - Other,137
+78617,Harassment,701
+78617,Identity Theft,186
+78617,Narcotic Possession,210
+78617,Possession of Drug,89
+78617,Prostitution,7
+78617,Robbery By Threat,8
+78617,Terroristic Threat,225
+78617,Theft,1304
+78617,Theft By Shoplifting,37
+78617,Theft Catalytic Converter,45
+78617,Theft From Auto,80
+78617,Theft From Building,26
+78617,Theft From Person,34
+78617,Theft Of Auto Parts,33
+78617,Theft Of Bicycle,36
+78617,Theft Of License Plate,64
+78617,Theft Of Trailer,23
+78617,Unlawful Carrying Weapon,20
+78617,Violation City Ordinance,35
+78652,Aggravated Assault,5
+78652,Assault By Contact,8
+78652,Assault With Injury,10
+78652,Auto Theft,4
+78652,Burglary Non Residence,4
+78652,Burglary Of Residence,15
+78652,Burglary Of Vehicle,40
+78652,Criminal Mischief,13
+78652,DWI,14
+78652,Dating Disturbance,3
+78652,Debit/Credit Card Abuse,9
+78652,Disturbance - Other,6
+78652,Driving While Intox / Felony,1
+78652,Family Disturbance,73
+78652,Forgery - Other,2
+78652,Fraud - Other,9
+78652,Harassment,13
+78652,Identity Theft,6
+78652,Narcotic Possession,4
+78652,Possession of Drug,1
+78652,Terroristic Threat,4
+78652,Theft,38
+78652,Theft By Shoplifting,7
+78652,Theft From Building,2
+78652,Theft Of Trailer,2
+78652,Unlawful Carrying Weapon,1
+78653,Aggravated Assault,11
+78653,Aggravated Robbery,2
+78653,Assault By Contact,6
+78653,Assault With Injury,19
+78653,Auto Theft,23
+78653,Burglary Non Residence,15
+78653,Burglary Of Residence,4
+78653,Burglary Of Vehicle,26
+78653,Counterfeiting,2
+78653,Criminal Mischief,21
+78653,Criminal Trespass,6
+78653,DWI,44
+78653,Dating Disturbance,4
+78653,Deadly Conduct,2
+78653,Debit/Credit Card Abuse,35
+78653,Disturbance - Other,9
+78653,Driving While Intox / Felony,5
+78653,Family Disturbance,25
+78653,Forgery - Other,1
+78653,Fraud - Other,3
+78653,Harassment,5
+78653,Identity Theft,5
+78653,Narcotic Possession,7
+78653,Possession of Drug,1
+78653,Terroristic Threat,4
+78653,Theft,37
+78653,Theft By Shoplifting,11
+78653,Theft Catalytic Converter,2
+78653,Theft From Auto,3
+78653,Theft From Building,1
+78653,Theft Of Auto Parts,10
+78653,Theft Of License Plate,2
+78653,Theft Of Trailer,3
+78653,Unlawful Carrying Weapon,3
+78653,Violation City Ordinance,1
+78660,Aggravated Assault,148
+78660,Aggravated Robbery,55
+78660,Assault By Contact,175
+78660,Assault On Public Servant,2
+78660,Assault With Injury,450
+78660,Auto Theft,292
+78660,Burglary Non Residence,191
+78660,Burglary Of Residence,89
+78660,Burglary Of Vehicle,1256
+78660,Counterfeiting,17
+78660,Criminal Mischief,454
+78660,Criminal Trespass,102
+78660,DWI,314
+78660,Dating Disturbance,68
+78660,Deadly Conduct,20
+78660,Debit/Credit Card Abuse,136
+78660,Disturbance - Other,243
+78660,Driving While Intox / Felony,17
+78660,Family Disturbance,628
+78660,Forgery - Other,27
+78660,Fraud - Other,79
+78660,Harassment,166
+78660,Identity Theft,73
+78660,Narcotic Possession,77
+78660,Possession of Drug,24
+78660,Prostitution,2
+78660,Robbery By Threat,4
+78660,Terroristic Threat,56
+78660,Theft,895
+78660,Theft By Shoplifting,486
+78660,Theft Catalytic Converter,45
+78660,Theft From Auto,45
+78660,Theft From Building,21
+78660,Theft From Person,8
+78660,Theft Of Auto Parts,22
+78660,Theft Of Bicycle,20
+78660,Theft Of License Plate,50
+78660,Theft Of Trailer,18
+78660,Unlawful Carrying Weapon,21
+78660,Violation City Ordinance,10
+78664,Burglary Of Vehicle,1
+78681,Assault With Injury,1
+78681,Auto Theft,1
+78681,DWI,3
+78681,Disturbance - Other,1
+78681,Narcotic Possession,1
+78681,Theft,1
+78701,Aggravated Assault,1953
+78701,Aggravated Robbery,1278
+78701,Assault By Contact,3019
+78701,Assault On Public Servant,544
+78701,Assault With Injury,9870
+78701,Auto Theft,1815
+78701,Burglary Non Residence,1479
+78701,Burglary Of Residence,402
+78701,Burglary Of Vehicle,10199
+78701,Counterfeiting,157
+78701,Criminal Mischief,6362
+78701,Criminal Trespass,6663
+78701,DWI,9427
+78701,Dating Disturbance,651
+78701,Deadly Conduct,95
+78701,Debit/Credit Card Abuse,1612
+78701,Disturbance - Other,3358
+78701,Driving While Intox / Felony,277
+78701,Family Disturbance,2422
+78701,Forgery - Other,176
+78701,Fraud - Other,679
+78701,Harassment,1677
+78701,Identity Theft,932
+78701,Narcotic Possession,4293
+78701,Possession of Drug,6002
+78701,Prostitution,86
+78701,Robbery By Threat,120
+78701,Terroristic Threat,980
+78701,Theft,16391
+78701,Theft By Shoplifting,637
+78701,Theft Catalytic Converter,57
+78701,Theft From Auto,228
+78701,Theft From Building,488
+78701,Theft From Person,2112
+78701,Theft Of Auto Parts,70
+78701,Theft Of Bicycle,2776
+78701,Theft Of License Plate,256
+78701,Theft Of Trailer,27
+78701,Unlawful Carrying Weapon,668
+78701,Violation City Ordinance,5874
+78702,Aggravated Assault,2157
+78702,Aggravated Robbery,1452
+78702,Assault By Contact,1930
+78702,Assault On Public Servant,136
+78702,Assault With Injury,7402
+78702,Auto Theft,2252
+78702,Burglary Non Residence,2759
+78702,Burglary Of Residence,3765
+78702,Burglary Of Vehicle,10675
+78702,Counterfeiting,174
+78702,Criminal Mischief,6648
+78702,Criminal Trespass,4630
+78702,DWI,4291
+78702,Dating Disturbance,589
+78702,Deadly Conduct,166
+78702,Debit/Credit Card Abuse,803
+78702,Disturbance - Other,3084
+78702,Driving While Intox / Felony,271
+78702,Family Disturbance,10262
+78702,Forgery - Other,125
+78702,Fraud - Other,626
+78702,Harassment,2642
+78702,Identity Theft,930
+78702,Narcotic Possession,5905
+78702,Possession of Drug,5351
+78702,Prostitution,673
+78702,Robbery By Threat,134
+78702,Terroristic Threat,958
+78702,Theft,10295
+78702,Theft By Shoplifting,1509
+78702,Theft Catalytic Converter,149
+78702,Theft From Auto,317
+78702,Theft From Building,166
+78702,Theft From Person,476
+78702,Theft Of Auto Parts,120
+78702,Theft Of Bicycle,1642
+78702,Theft Of License Plate,289
+78702,Theft Of Trailer,109
+78702,Unlawful Carrying Weapon,347
+78702,Violation City Ordinance,2116
+78703,Aggravated Assault,124
+78703,Aggravated Robbery,101
+78703,Assault By Contact,300
+78703,Assault On Public Servant,24
+78703,Assault With Injury,848
+78703,Auto Theft,679
+78703,Burglary Non Residence,673
+78703,Burglary Of Residence,1142
+78703,Burglary Of Vehicle,6087
+78703,Counterfeiting,15
+78703,Criminal Mischief,2154
+78703,Criminal Trespass,700
+78703,DWI,5265
+78703,Dating Disturbance,162
+78703,Deadly Conduct,18
+78703,Debit/Credit Card Abuse,463
+78703,Disturbance - Other,608
+78703,Driving While Intox / Felony,147
+78703,Family Disturbance,1176
+78703,Forgery - Other,39
+78703,Fraud - Other,349
+78703,Harassment,908
+78703,Identity Theft,599
+78703,Narcotic Possession,285
+78703,Possession of Drug,217
+78703,Prostitution,3
+78703,Robbery By Threat,13
+78703,Terroristic Threat,182
+78703,Theft,3452
+78703,Theft By Shoplifting,698
+78703,Theft Catalytic Converter,46
+78703,Theft From Auto,120
+78703,Theft From Building,66
+78703,Theft From Person,41
+78703,Theft Of Auto Parts,43
+78703,Theft Of Bicycle,897
+78703,Theft Of License Plate,115
+78703,Theft Of Trailer,43
+78703,Unlawful Carrying Weapon,63
+78703,Violation City Ordinance,261
+78704,Aggravated Assault,1548
+78704,Aggravated Robbery,942
+78704,Assault By Contact,2355
+78704,Assault On Public Servant,84
+78704,Assault With Injury,7248
+78704,Auto Theft,3808
+78704,Burglary Non Residence,3004
+78704,Burglary Of Residence,5310
+78704,Burglary Of Vehicle,17912
+78704,Counterfeiting,200
+78704,Criminal Mischief,8515
+78704,Criminal Trespass,3977
+78704,DWI,8058
+78704,Dating Disturbance,1019
+78704,Deadly Conduct,101
+78704,Debit/Credit Card Abuse,1763
+78704,Disturbance - Other,4662
+78704,Driving While Intox / Felony,354
+78704,Family Disturbance,11006
+78704,Forgery - Other,154
+78704,Fraud - Other,1277
+78704,Harassment,4237
+78704,Identity Theft,1495
+78704,Narcotic Possession,2064
+78704,Possession of Drug,1644
+78704,Prostitution,276
+78704,Robbery By Threat,124
+78704,Terroristic Threat,1187
+78704,Theft,15848
+78704,Theft By Shoplifting,4320
+78704,Theft Catalytic Converter,298
+78704,Theft From Auto,701
+78704,Theft From Building,277
+78704,Theft From Person,372
+78704,Theft Of Auto Parts,273
+78704,Theft Of Bicycle,3083
+78704,Theft Of License Plate,520
+78704,Theft Of Trailer,242
+78704,Unlawful Carrying Weapon,265
+78704,Violation City Ordinance,2063
+78705,Aggravated Assault,456
+78705,Aggravated Robbery,260
+78705,Assault By Contact,739
+78705,Assault On Public Servant,106
+78705,Assault With Injury,2038
+78705,Auto Theft,1660
+78705,Burglary Non Residence,991
+78705,Burglary Of Residence,2244
+78705,Burglary Of Vehicle,9311
+78705,Counterfeiting,40
+78705,Criminal Mischief,5218
+78705,Criminal Trespass,2300
+78705,DWI,1391
+78705,Dating Disturbance,502
+78705,Deadly Conduct,38
+78705,Debit/Credit Card Abuse,671
+78705,Disturbance - Other,1162
+78705,Driving While Intox / Felony,41
+78705,Family Disturbance,1381
+78705,Forgery - Other,62
+78705,Fraud - Other,556
+78705,Harassment,1302
+78705,Identity Theft,358
+78705,Narcotic Possession,416
+78705,Possession of Drug,473
+78705,Prostitution,10
+78705,Robbery By Threat,55
+78705,Terroristic Threat,348
+78705,Theft,5819
+78705,Theft By Shoplifting,628
+78705,Theft Catalytic Converter,132
+78705,Theft From Auto,208
+78705,Theft From Building,164
+78705,Theft From Person,126
+78705,Theft Of Auto Parts,120
+78705,Theft Of Bicycle,3858
+78705,Theft Of License Plate,292
+78705,Theft Of Trailer,25
+78705,Unlawful Carrying Weapon,74
+78705,Violation City Ordinance,750
+78712,Aggravated Assault,8
+78712,Aggravated Robbery,5
+78712,Assault By Contact,40
+78712,Assault On Public Servant,1
+78712,Assault With Injury,64
+78712,Auto Theft,16
+78712,Burglary Non Residence,4
+78712,Burglary Of Vehicle,72
+78712,Criminal Mischief,55
+78712,Criminal Trespass,23
+78712,DWI,94
+78712,Dating Disturbance,8
+78712,Debit/Credit Card Abuse,13
+78712,Disturbance - Other,30
+78712,Driving While Intox / Felony,3
+78712,Family Disturbance,18
+78712,Forgery - Other,1
+78712,Fraud - Other,12
+78712,Harassment,23
+78712,Identity Theft,14
+78712,Narcotic Possession,11
+78712,Possession of Drug,16
+78712,Terroristic Threat,6
+78712,Theft,155
+78712,Theft By Shoplifting,2
+78712,Theft From Auto,7
+78712,Theft From Building,8
+78712,Theft From Person,12
+78712,Theft Of Auto Parts,1
+78712,Theft Of Bicycle,61
+78712,Theft Of License Plate,6
+78712,Unlawful Carrying Weapon,4
+78712,Violation City Ordinance,62
+78717,Aggravated Assault,152
+78717,Aggravated Robbery,34
+78717,Assault By Contact,164
+78717,Assault On Public Servant,6
+78717,Assault With Injury,731
+78717,Auto Theft,201
+78717,Burglary Non Residence,335
+78717,Burglary Of Residence,404
+78717,Burglary Of Vehicle,1356
+78717,Counterfeiting,8
+78717,Criminal Mischief,802
+78717,Criminal Trespass,104
+78717,DWI,405
+78717,Dating Disturbance,130
+78717,Deadly Conduct,11
+78717,Debit/Credit Card Abuse,379
+78717,Disturbance - Other,470
+78717,Driving While Intox / Felony,27
+78717,Family Disturbance,1827
+78717,Forgery - Other,30
+78717,Fraud - Other,227
+78717,Harassment,674
+78717,Identity Theft,402
+78717,Narcotic Possession,64
+78717,Possession of Drug,46
+78717,Prostitution,3
+78717,Robbery By Threat,6
+78717,Terroristic Threat,140
+78717,Theft,1767
+78717,Theft By Shoplifting,781
+78717,Theft Catalytic Converter,44
+78717,Theft From Auto,58
+78717,Theft From Building,36
+78717,Theft From Person,18
+78717,Theft Of Auto Parts,41
+78717,Theft Of Bicycle,85
+78717,Theft Of License Plate,73
+78717,Theft Of Trailer,29
+78717,Unlawful Carrying Weapon,23
+78717,Violation City Ordinance,14
+78719,Aggravated Assault,10
+78719,Aggravated Robbery,3
+78719,Assault By Contact,207
+78719,Assault On Public Servant,9
+78719,Assault With Injury,139
+78719,Auto Theft,439
+78719,Burglary Non Residence,18
+78719,Burglary Of Residence,1
+78719,Burglary Of Vehicle,165
+78719,Counterfeiting,22
+78719,Criminal Mischief,271
+78719,Criminal Trespass,151
+78719,DWI,168
+78719,Dating Disturbance,18
+78719,Deadly Conduct,4
+78719,Debit/Credit Card Abuse,60
+78719,Disturbance - Other,355
+78719,Driving While Intox / Felony,11
+78719,Family Disturbance,144
+78719,Forgery - Other,2
+78719,Fraud - Other,43
+78719,Harassment,74
+78719,Identity Theft,24
+78719,Narcotic Possession,130
+78719,Possession of Drug,344
+78719,Prostitution,2
+78719,Robbery By Threat,2
+78719,Terroristic Threat,54
+78719,Theft,1949
+78719,Theft By Shoplifting,14
+78719,Theft Catalytic Converter,84
+78719,Theft From Auto,33
+78719,Theft From Building,9
+78719,Theft From Person,26
+78719,Theft Of Auto Parts,28
+78719,Theft Of Bicycle,3
+78719,Theft Of License Plate,38
+78719,Theft Of Trailer,4
+78719,Unlawful Carrying Weapon,18
+78719,Violation City Ordinance,99
+78721,Aggravated Assault,1152
+78721,Aggravated Robbery,422
+78721,Assault By Contact,958
+78721,Assault On Public Servant,35
+78721,Assault With Injury,3763
+78721,Auto Theft,815
+78721,Burglary Non Residence,727
+78721,Burglary Of Residence,1983
+78721,Burglary Of Vehicle,2239
+78721,Counterfeiting,56
+78721,Criminal Mischief,2782
+78721,Criminal Trespass,1215
+78721,DWI,870
+78721,Dating Disturbance,267
+78721,Deadly Conduct,84
+78721,Debit/Credit Card Abuse,311
+78721,Disturbance - Other,1542
+78721,Driving While Intox / Felony,104
+78721,Family Disturbance,6371
+78721,Forgery - Other,35
+78721,Fraud - Other,248
+78721,Harassment,1499
+78721,Identity Theft,472
+78721,Narcotic Possession,1763
+78721,Possession of Drug,1008
+78721,Prostitution,69
+78721,Robbery By Threat,33
+78721,Terroristic Threat,461
+78721,Theft,3384
+78721,Theft By Shoplifting,173
+78721,Theft Catalytic Converter,59
+78721,Theft From Auto,166
+78721,Theft From Building,49
+78721,Theft From Person,142
+78721,Theft Of Auto Parts,61
+78721,Theft Of Bicycle,216
+78721,Theft Of License Plate,122
+78721,Theft Of Trailer,82
+78721,Unlawful Carrying Weapon,123
+78721,Violation City Ordinance,282
+78722,Aggravated Assault,264
+78722,Aggravated Robbery,233
+78722,Assault By Contact,311
+78722,Assault On Public Servant,17
+78722,Assault With Injury,980
+78722,Auto Theft,516
+78722,Burglary Non Residence,485
+78722,Burglary Of Residence,1058
+78722,Burglary Of Vehicle,2506
+78722,Counterfeiting,17
+78722,Criminal Mischief,1073
+78722,Criminal Trespass,678
+78722,DWI,744
+78722,Dating Disturbance,96
+78722,Deadly Conduct,19
+78722,Debit/Credit Card Abuse,258
+78722,Disturbance - Other,454
+78722,Driving While Intox / Felony,45
+78722,Family Disturbance,1472
+78722,Forgery - Other,22
+78722,Fraud - Other,161
+78722,Harassment,426
+78722,Identity Theft,202
+78722,Narcotic Possession,415
+78722,Possession of Drug,287
+78722,Prostitution,18
+78722,Robbery By Threat,25
+78722,Terroristic Threat,129
+78722,Theft,2124
+78722,Theft By Shoplifting,445
+78722,Theft Catalytic Converter,52
+78722,Theft From Auto,80
+78722,Theft From Building,28
+78722,Theft From Person,71
+78722,Theft Of Auto Parts,51
+78722,Theft Of Bicycle,330
+78722,Theft Of License Plate,66
+78722,Theft Of Trailer,48
+78722,Unlawful Carrying Weapon,38
+78722,Violation City Ordinance,101
+78723,Aggravated Assault,2473
+78723,Aggravated Robbery,1698
+78723,Assault By Contact,2233
+78723,Assault On Public Servant,111
+78723,Assault With Injury,8636
+78723,Auto Theft,2847
+78723,Burglary Non Residence,1915
+78723,Burglary Of Residence,5300
+78723,Burglary Of Vehicle,9778
+78723,Counterfeiting,215
+78723,Criminal Mischief,7127
+78723,Criminal Trespass,3639
+78723,DWI,3215
+78723,Dating Disturbance,566
+78723,Deadly Conduct,188
+78723,Debit/Credit Card Abuse,1302
+78723,Disturbance - Other,3697
+78723,Driving While Intox / Felony,214
+78723,Family Disturbance,12535
+78723,Forgery - Other,159
+78723,Fraud - Other,804
+78723,Harassment,3712
+78723,Identity Theft,1254
+78723,Narcotic Possession,2798
+78723,Possession of Drug,1725
+78723,Prostitution,113
+78723,Robbery By Threat,145
+78723,Terroristic Threat,1547
+78723,Theft,11755
+78723,Theft By Shoplifting,3356
+78723,Theft Catalytic Converter,239
+78723,Theft From Auto,538
+78723,Theft From Building,125
+78723,Theft From Person,465
+78723,Theft Of Auto Parts,210
+78723,Theft Of Bicycle,640
+78723,Theft Of License Plate,427
+78723,Theft Of Trailer,144
+78723,Unlawful Carrying Weapon,267
+78723,Violation City Ordinance,579
+78724,Aggravated Assault,987
+78724,Aggravated Robbery,320
+78724,Assault By Contact,798
+78724,Assault On Public Servant,22
+78724,Assault With Injury,3026
+78724,Auto Theft,821
+78724,Burglary Non Residence,401
+78724,Burglary Of Residence,1937
+78724,Burglary Of Vehicle,2490
+78724,Counterfeiting,38
+78724,Criminal Mischief,2854
+78724,Criminal Trespass,493
+78724,DWI,759
+78724,Dating Disturbance,186
+78724,Deadly Conduct,167
+78724,Debit/Credit Card Abuse,286
+78724,Disturbance - Other,1183
+78724,Driving While Intox / Felony,72
+78724,Family Disturbance,5576
+78724,Forgery - Other,20
+78724,Fraud - Other,278
+78724,Harassment,1356
+78724,Identity Theft,468
+78724,Narcotic Possession,645
+78724,Possession of Drug,301
+78724,Prostitution,8
+78724,Robbery By Threat,26
+78724,Terroristic Threat,416
+78724,Theft,2456
+78724,Theft By Shoplifting,95
+78724,Theft Catalytic Converter,44
+78724,Theft From Auto,159
+78724,Theft From Building,41
+78724,Theft From Person,106
+78724,Theft Of Auto Parts,82
+78724,Theft Of Bicycle,71
+78724,Theft Of License Plate,130
+78724,Theft Of Trailer,59
+78724,Unlawful Carrying Weapon,105
+78724,Violation City Ordinance,91
+78725,Aggravated Assault,59
+78725,Aggravated Robbery,10
+78725,Assault By Contact,55
+78725,Assault On Public Servant,4
+78725,Assault With Injury,234
+78725,Auto Theft,58
+78725,Burglary Non Residence,75
+78725,Burglary Of Residence,103
+78725,Burglary Of Vehicle,154
+78725,Counterfeiting,6
+78725,Criminal Mischief,196
+78725,Criminal Trespass,48
+78725,DWI,91
+78725,Dating Disturbance,11
+78725,Deadly Conduct,6
+78725,Debit/Credit Card Abuse,35
+78725,Disturbance - Other,100
+78725,Driving While Intox / Felony,11
+78725,Family Disturbance,402
+78725,Forgery - Other,3
+78725,Fraud - Other,15
+78725,Harassment,100
+78725,Identity Theft,51
+78725,Narcotic Possession,83
+78725,Possession of Drug,35
+78725,Prostitution,1
+78725,Robbery By Threat,2
+78725,Terroristic Threat,43
+78725,Theft,284
+78725,Theft By Shoplifting,6
+78725,Theft Catalytic Converter,9
+78725,Theft From Auto,8
+78725,Theft From Building,11
+78725,Theft From Person,7
+78725,Theft Of Auto Parts,8
+78725,Theft Of Bicycle,5
+78725,Theft Of License Plate,11
+78725,Theft Of Trailer,13
+78725,Unlawful Carrying Weapon,9
+78725,Violation City Ordinance,7
+78726,Aggravated Assault,164
+78726,Aggravated Robbery,31
+78726,Assault By Contact,200
+78726,Assault On Public Servant,4
+78726,Assault With Injury,764
+78726,Auto Theft,245
+78726,Burglary Non Residence,182
+78726,Burglary Of Residence,327
+78726,Burglary Of Vehicle,1149
+78726,Counterfeiting,22
+78726,Criminal Mischief,773
+78726,Criminal Trespass,81
+78726,DWI,240
+78726,Dating Disturbance,121
+78726,Deadly Conduct,16
+78726,Debit/Credit Card Abuse,287
+78726,Disturbance - Other,464
+78726,Driving While Intox / Felony,19
+78726,Family Disturbance,2048
+78726,Forgery - Other,47
+78726,Fraud - Other,178
+78726,Harassment,660
+78726,Identity Theft,347
+78726,Narcotic Possession,47
+78726,Possession of Drug,26
+78726,Prostitution,2
+78726,Robbery By Threat,3
+78726,Terroristic Threat,151
+78726,Theft,1187
+78726,Theft By Shoplifting,328
+78726,Theft Catalytic Converter,28
+78726,Theft From Auto,51
+78726,Theft From Building,17
+78726,Theft From Person,13
+78726,Theft Of Auto Parts,46
+78726,Theft Of Bicycle,48
+78726,Theft Of License Plate,90
+78726,Theft Of Trailer,37
+78726,Unlawful Carrying Weapon,6
+78726,Violation City Ordinance,8
+78727,Aggravated Assault,365
+78727,Aggravated Robbery,133
+78727,Assault By Contact,486
+78727,Assault On Public Servant,16
+78727,Assault With Injury,1944
+78727,Auto Theft,779
+78727,Burglary Non Residence,532
+78727,Burglary Of Residence,1656
+78727,Burglary Of Vehicle,4735
+78727,Counterfeiting,58
+78727,Criminal Mischief,2706
+78727,Criminal Trespass,386
+78727,DWI,933
+78727,Dating Disturbance,259
+78727,Deadly Conduct,43
+78727,Debit/Credit Card Abuse,780
+78727,Disturbance - Other,1173
+78727,Driving While Intox / Felony,47
+78727,Family Disturbance,4551
+78727,Forgery - Other,76
+78727,Fraud - Other,475
+78727,Harassment,1733
+78727,Identity Theft,756
+78727,Narcotic Possession,274
+78727,Possession of Drug,178
+78727,Prostitution,13
+78727,Robbery By Threat,24
+78727,Terroristic Threat,440
+78727,Theft,3337
+78727,Theft By Shoplifting,655
+78727,Theft Catalytic Converter,102
+78727,Theft From Auto,221
+78727,Theft From Building,62
+78727,Theft From Person,28
+78727,Theft Of Auto Parts,156
+78727,Theft Of Bicycle,188
+78727,Theft Of License Plate,216
+78727,Theft Of Trailer,105
+78727,Unlawful Carrying Weapon,44
+78727,Violation City Ordinance,125
+78728,Aggravated Assault,10
+78728,Aggravated Robbery,4
+78728,Assault By Contact,19
+78728,Assault With Injury,30
+78728,Auto Theft,15
+78728,Burglary Non Residence,20
+78728,Burglary Of Residence,1
+78728,Burglary Of Vehicle,60
+78728,Counterfeiting,1
+78728,Criminal Mischief,42
+78728,Criminal Trespass,8
+78728,DWI,137
+78728,Dating Disturbance,2
+78728,Deadly Conduct,3
+78728,Debit/Credit Card Abuse,33
+78728,Disturbance - Other,20
+78728,Driving While Intox / Felony,12
+78728,Family Disturbance,12
+78728,Fraud - Other,7
+78728,Harassment,19
+78728,Identity Theft,7
+78728,Narcotic Possession,11
+78728,Possession of Drug,5
+78728,Terroristic Threat,11
+78728,Theft,117
+78728,Theft By Shoplifting,1
+78728,Theft Catalytic Converter,3
+78728,Theft From Auto,5
+78728,Theft From Building,6
+78728,Theft From Person,1
+78728,Theft Of Auto Parts,1
+78728,Theft Of Bicycle,1
+78728,Theft Of License Plate,4
+78728,Theft Of Trailer,4
+78728,Unlawful Carrying Weapon,4
+78729,Aggravated Assault,344
+78729,Aggravated Robbery,101
+78729,Assault By Contact,409
+78729,Assault On Public Servant,10
+78729,Assault With Injury,1496
+78729,Auto Theft,574
+78729,Burglary Non Residence,573
+78729,Burglary Of Residence,563
+78729,Burglary Of Vehicle,2407
+78729,Counterfeiting,34
+78729,Criminal Mischief,1449
+78729,Criminal Trespass,372
+78729,DWI,622
+78729,Dating Disturbance,335
+78729,Deadly Conduct,26
+78729,Debit/Credit Card Abuse,528
+78729,Disturbance - Other,1062
+78729,Driving While Intox / Felony,52
+78729,Family Disturbance,3578
+78729,Forgery - Other,58
+78729,Fraud - Other,282
+78729,Harassment,954
+78729,Identity Theft,382
+78729,Narcotic Possession,298
+78729,Possession of Drug,125
+78729,Prostitution,15
+78729,Robbery By Threat,29
+78729,Terroristic Threat,314
+78729,Theft,2408
+78729,Theft By Shoplifting,598
+78729,Theft Catalytic Converter,86
+78729,Theft From Auto,136
+78729,Theft From Building,54
+78729,Theft From Person,32
+78729,Theft Of Auto Parts,92
+78729,Theft Of Bicycle,171
+78729,Theft Of License Plate,155
+78729,Theft Of Trailer,68
+78729,Unlawful Carrying Weapon,27
+78729,Violation City Ordinance,88
+78730,Aggravated Assault,33
+78730,Aggravated Robbery,6
+78730,Assault By Contact,51
+78730,Assault On Public Servant,1
+78730,Assault With Injury,166
+78730,Auto Theft,84
+78730,Burglary Non Residence,96
+78730,Burglary Of Residence,98
+78730,Burglary Of Vehicle,825
+78730,Counterfeiting,5
+78730,Criminal Mischief,217
+78730,Criminal Trespass,27
+78730,DWI,57
+78730,Dating Disturbance,29
+78730,Deadly Conduct,3
+78730,Debit/Credit Card Abuse,68
+78730,Disturbance - Other,117
+78730,Driving While Intox / Felony,8
+78730,Family Disturbance,347
+78730,Forgery - Other,7
+78730,Fraud - Other,59
+78730,Harassment,202
+78730,Identity Theft,117
+78730,Narcotic Possession,8
+78730,Possession of Drug,5
+78730,Prostitution,1
+78730,Terroristic Threat,42
+78730,Theft,319
+78730,Theft By Shoplifting,3
+78730,Theft Catalytic Converter,7
+78730,Theft From Auto,22
+78730,Theft From Building,16
+78730,Theft From Person,2
+78730,Theft Of Auto Parts,15
+78730,Theft Of Bicycle,10
+78730,Theft Of License Plate,21
+78730,Theft Of Trailer,16
+78730,Unlawful Carrying Weapon,3
+78730,Violation City Ordinance,34
+78731,Aggravated Assault,166
+78731,Aggravated Robbery,68
+78731,Assault By Contact,303
+78731,Assault On Public Servant,23
+78731,Assault With Injury,988
+78731,Auto Theft,545
+78731,Burglary Non Residence,635
+78731,Burglary Of Residence,1121
+78731,Burglary Of Vehicle,7144
+78731,Counterfeiting,11
+78731,Criminal Mischief,1996
+78731,Criminal Trespass,289
+78731,DWI,1386
+78731,Dating Disturbance,213
+78731,Deadly Conduct,27
+78731,Debit/Credit Card Abuse,547
+78731,Disturbance - Other,735
+78731,Driving While Intox / Felony,51
+78731,Family Disturbance,1897
+78731,Forgery - Other,62
+78731,Fraud - Other,554
+78731,Harassment,1236
+78731,Identity Theft,798
+78731,Narcotic Possession,169
+78731,Possession of Drug,146
+78731,Prostitution,6
+78731,Robbery By Threat,26
+78731,Terroristic Threat,232
+78731,Theft,2996
+78731,Theft By Shoplifting,355
+78731,Theft Catalytic Converter,104
+78731,Theft From Auto,148
+78731,Theft From Building,72
+78731,Theft From Person,27
+78731,Theft Of Auto Parts,108
+78731,Theft Of Bicycle,196
+78731,Theft Of License Plate,135
+78731,Theft Of Trailer,59
+78731,Unlawful Carrying Weapon,37
+78731,Violation City Ordinance,224
+78732,Aggravated Assault,3
+78732,Aggravated Robbery,2
+78732,Assault By Contact,7
+78732,Assault With Injury,17
+78732,Auto Theft,2
+78732,Burglary Non Residence,11
+78732,Burglary Of Residence,4
+78732,Burglary Of Vehicle,16
+78732,Criminal Mischief,14
+78732,Criminal Trespass,3
+78732,DWI,33
+78732,Dating Disturbance,2
+78732,Debit/Credit Card Abuse,8
+78732,Disturbance - Other,21
+78732,Driving While Intox / Felony,3
+78732,Family Disturbance,12
+78732,Forgery - Other,2
+78732,Fraud - Other,3
+78732,Harassment,10
+78732,Identity Theft,5
+78732,Narcotic Possession,4
+78732,Robbery By Threat,1
+78732,Terroristic Threat,4
+78732,Theft,53
+78732,Theft By Shoplifting,10
+78732,Theft From Building,1
+78732,Theft Of License Plate,1
+78732,Theft Of Trailer,3
+78732,Unlawful Carrying Weapon,2
+78732,Violation City Ordinance,2
+78733,Aggravated Assault,1
+78733,Aggravated Robbery,1
+78733,Assault By Contact,1
+78733,Assault On Public Servant,1
+78733,Assault With Injury,5
+78733,Auto Theft,3
+78733,Burglary Non Residence,2
+78733,Burglary Of Residence,2
+78733,Burglary Of Vehicle,2
+78733,Criminal Mischief,19
+78733,Criminal Trespass,1
+78733,DWI,1
+78733,Debit/Credit Card Abuse,2
+78733,Disturbance - Other,5
+78733,Family Disturbance,3
+78733,Forgery - Other,2
+78733,Harassment,10
+78733,Identity Theft,4
+78733,Possession of Drug,3
+78733,Terroristic Threat,1
+78733,Theft,15
+78733,Theft From Auto,1
+78733,Theft Of Auto Parts,1
+78733,Theft Of License Plate,1
+78733,Theft Of Trailer,3
+78733,Violation City Ordinance,20
+78734,Burglary Of Vehicle,2
+78734,Criminal Mischief,2
+78734,Theft,2
+78734,Violation City Ordinance,4
+78735,Aggravated Assault,179
+78735,Aggravated Robbery,43
+78735,Assault By Contact,190
+78735,Assault On Public Servant,4
+78735,Assault With Injury,690
+78735,Auto Theft,290
+78735,Burglary Non Residence,584
+78735,Burglary Of Residence,516
+78735,Burglary Of Vehicle,2393
+78735,Counterfeiting,18
+78735,Criminal Mischief,1091
+78735,Criminal Trespass,191
+78735,DWI,627
+78735,Dating Disturbance,121
+78735,Deadly Conduct,23
+78735,Debit/Credit Card Abuse,336
+78735,Disturbance - Other,482
+78735,Driving While Intox / Felony,28
+78735,Family Disturbance,1517
+78735,Forgery - Other,23
+78735,Fraud - Other,283
+78735,Harassment,595
+78735,Identity Theft,353
+78735,Narcotic Possession,110
+78735,Possession of Drug,51
+78735,Prostitution,1
+78735,Robbery By Threat,4
+78735,Terroristic Threat,129
+78735,Theft,1563
+78735,Theft By Shoplifting,122
+78735,Theft Catalytic Converter,65
+78735,Theft From Auto,108
+78735,Theft From Building,53
+78735,Theft From Person,11
+78735,Theft Of Auto Parts,40
+78735,Theft Of Bicycle,68
+78735,Theft Of License Plate,77
+78735,Theft Of Trailer,62
+78735,Unlawful Carrying Weapon,24
+78735,Violation City Ordinance,43
+78736,Aggravated Assault,57
+78736,Aggravated Robbery,11
+78736,Assault By Contact,70
+78736,Assault On Public Servant,1
+78736,Assault With Injury,242
+78736,Auto Theft,85
+78736,Burglary Non Residence,104
+78736,Burglary Of Residence,185
+78736,Burglary Of Vehicle,632
+78736,Counterfeiting,2
+78736,Criminal Mischief,480
+78736,Criminal Trespass,61
+78736,DWI,78
+78736,Dating Disturbance,42
+78736,Deadly Conduct,3
+78736,Debit/Credit Card Abuse,112
+78736,Disturbance - Other,165
+78736,Driving While Intox / Felony,13
+78736,Family Disturbance,574
+78736,Forgery - Other,9
+78736,Fraud - Other,84
+78736,Harassment,244
+78736,Identity Theft,121
+78736,Narcotic Possession,23
+78736,Possession of Drug,11
+78736,Robbery By Threat,1
+78736,Terroristic Threat,52
+78736,Theft,453
+78736,Theft By Shoplifting,17
+78736,Theft Catalytic Converter,12
+78736,Theft From Auto,28
+78736,Theft From Building,10
+78736,Theft From Person,10
+78736,Theft Of Auto Parts,12
+78736,Theft Of Bicycle,24
+78736,Theft Of License Plate,24
+78736,Theft Of Trailer,9
+78736,Unlawful Carrying Weapon,5
+78736,Violation City Ordinance,11
+78737,Aggravated Assault,7
+78737,Aggravated Robbery,2
+78737,Assault By Contact,5
+78737,Assault With Injury,19
+78737,Auto Theft,4
+78737,Burglary Non Residence,4
+78737,Burglary Of Residence,4
+78737,Burglary Of Vehicle,22
+78737,Criminal Mischief,8
+78737,Criminal Trespass,2
+78737,DWI,15
+78737,Dating Disturbance,1
+78737,Deadly Conduct,1
+78737,Debit/Credit Card Abuse,3
+78737,Disturbance - Other,9
+78737,Driving While Intox / Felony,2
+78737,Family Disturbance,17
+78737,Fraud - Other,2
+78737,Harassment,9
+78737,Identity Theft,6
+78737,Narcotic Possession,4
+78737,Possession of Drug,1
+78737,Terroristic Threat,5
+78737,Theft,26
+78737,Theft By Shoplifting,2
+78737,Theft Catalytic Converter,1
+78737,Theft From Auto,1
+78737,Theft From Building,1
+78737,Theft Of Auto Parts,1
+78737,Theft Of License Plate,2
+78737,Theft Of Trailer,1
+78737,Unlawful Carrying Weapon,2
+78739,Aggravated Assault,28
+78739,Aggravated Robbery,3
+78739,Assault By Contact,59
+78739,Assault On Public Servant,3
+78739,Assault With Injury,188
+78739,Auto Theft,88
+78739,Burglary Non Residence,96
+78739,Burglary Of Residence,253
+78739,Burglary Of Vehicle,1033
+78739,Counterfeiting,1
+78739,Criminal Mischief,665
+78739,Criminal Trespass,14
+78739,DWI,77
+78739,Dating Disturbance,16
+78739,Deadly Conduct,6
+78739,Debit/Credit Card Abuse,204
+78739,Disturbance - Other,92
+78739,Driving While Intox / Felony,5
+78739,Family Disturbance,577
+78739,Forgery - Other,11
+78739,Fraud - Other,139
+78739,Harassment,281
+78739,Identity Theft,343
+78739,Narcotic Possession,14
+78739,Possession of Drug,12
+78739,Terroristic Threat,41
+78739,Theft,703
+78739,Theft From Auto,20
+78739,Theft From Building,10
+78739,Theft From Person,3
+78739,Theft Of Auto Parts,19
+78739,Theft Of Bicycle,21
+78739,Theft Of License Plate,24
+78739,Theft Of Trailer,11
+78739,Unlawful Carrying Weapon,2
+78739,Violation City Ordinance,4
+78741,Aggravated Assault,3858
+78741,Aggravated Robbery,2851
+78741,Assault By Contact,3615
+78741,Assault On Public Servant,170
+78741,Assault With Injury,15104
+78741,Auto Theft,5702
+78741,Burglary Non Residence,2366
+78741,Burglary Of Residence,9451
+78741,Burglary Of Vehicle,21203
+78741,Counterfeiting,268
+78741,Criminal Mischief,11831
+78741,Criminal Trespass,5483
+78741,DWI,6849
+78741,Dating Disturbance,1675
+78741,Deadly Conduct,288
+78741,Debit/Credit Card Abuse,1514
+78741,Disturbance - Other,5411
+78741,Driving While Intox / Felony,422
+78741,Family Disturbance,23368
+78741,Forgery - Other,181
+78741,Fraud - Other,1253
+78741,Harassment,5813
+78741,Identity Theft,1656
+78741,Narcotic Possession,5159
+78741,Possession of Drug,3583
+78741,Prostitution,499
+78741,Robbery By Threat,221
+78741,Terroristic Threat,1820
+78741,Theft,16528
+78741,Theft By Shoplifting,3691
+78741,Theft Catalytic Converter,387
+78741,Theft From Auto,811
+78741,Theft From Building,171
+78741,Theft From Person,675
+78741,Theft Of Auto Parts,403
+78741,Theft Of Bicycle,1622
+78741,Theft Of License Plate,682
+78741,Theft Of Trailer,166
+78741,Unlawful Carrying Weapon,523
+78741,Violation City Ordinance,2158
+78742,Aggravated Assault,56
+78742,Aggravated Robbery,21
+78742,Assault By Contact,46
+78742,Assault With Injury,237
+78742,Auto Theft,93
+78742,Burglary Non Residence,95
+78742,Burglary Of Residence,93
+78742,Burglary Of Vehicle,231
+78742,Counterfeiting,11
+78742,Criminal Mischief,146
+78742,Criminal Trespass,38
+78742,DWI,87
+78742,Dating Disturbance,10
+78742,Deadly Conduct,2
+78742,Debit/Credit Card Abuse,19
+78742,Disturbance - Other,95
+78742,Driving While Intox / Felony,9
+78742,Family Disturbance,337
+78742,Forgery - Other,3
+78742,Fraud - Other,21
+78742,Harassment,85
+78742,Identity Theft,22
+78742,Narcotic Possession,36
+78742,Possession of Drug,9
+78742,Prostitution,5
+78742,Robbery By Threat,1
+78742,Terroristic Threat,27
+78742,Theft,279
+78742,Theft By Shoplifting,6
+78742,Theft Catalytic Converter,8
+78742,Theft From Auto,21
+78742,Theft From Building,3
+78742,Theft From Person,5
+78742,Theft Of Auto Parts,9
+78742,Theft Of Bicycle,5
+78742,Theft Of License Plate,9
+78742,Theft Of Trailer,5
+78742,Unlawful Carrying Weapon,10
+78742,Violation City Ordinance,5
+78744,Aggravated Assault,2045
+78744,Aggravated Robbery,883
+78744,Assault By Contact,2083
+78744,Assault On Public Servant,76
+78744,Assault With Injury,8623
+78744,Auto Theft,3104
+78744,Burglary Non Residence,1543
+78744,Burglary Of Residence,5531
+78744,Burglary Of Vehicle,11908
+78744,Counterfeiting,139
+78744,Criminal Mischief,7968
+78744,Criminal Trespass,1861
+78744,DWI,3104
+78744,Dating Disturbance,786
+78744,Deadly Conduct,324
+78744,Debit/Credit Card Abuse,1222
+78744,Disturbance - Other,3688
+78744,Driving While Intox / Felony,249
+78744,Family Disturbance,18069
+78744,Forgery - Other,168
+78744,Fraud - Other,935
+78744,Harassment,4440
+78744,Identity Theft,1284
+78744,Narcotic Possession,2193
+78744,Possession of Drug,1196
+78744,Prostitution,79
+78744,Robbery By Threat,89
+78744,Terroristic Threat,1223
+78744,Theft,9914
+78744,Theft By Shoplifting,1667
+78744,Theft Catalytic Converter,301
+78744,Theft From Auto,805
+78744,Theft From Building,121
+78744,Theft From Person,228
+78744,Theft Of Auto Parts,332
+78744,Theft Of Bicycle,360
+78744,Theft Of License Plate,470
+78744,Theft Of Trailer,304
+78744,Unlawful Carrying Weapon,249
+78744,Violation City Ordinance,536
+78745,Aggravated Assault,2012
+78745,Aggravated Robbery,924
+78745,Assault By Contact,2464
+78745,Assault On Public Servant,161
+78745,Assault With Injury,8828
+78745,Auto Theft,3490
+78745,Burglary Non Residence,3125
+78745,Burglary Of Residence,6148
+78745,Burglary Of Vehicle,15866
+78745,Counterfeiting,222
+78745,Criminal Mischief,9072
+78745,Criminal Trespass,2644
+78745,DWI,5091
+78745,Dating Disturbance,1055
+78745,Deadly Conduct,186
+78745,Debit/Credit Card Abuse,2116
+78745,Disturbance - Other,4652
+78745,Driving While Intox / Felony,304
+78745,Family Disturbance,17160
+78745,Forgery - Other,216
+78745,Fraud - Other,1502
+78745,Harassment,5257
+78745,Identity Theft,1792
+78745,Narcotic Possession,2455
+78745,Possession of Drug,1477
+78745,Prostitution,56
+78745,Robbery By Threat,97
+78745,Terroristic Threat,1364
+78745,Theft,13488
+78745,Theft By Shoplifting,1584
+78745,Theft Catalytic Converter,290
+78745,Theft From Auto,884
+78745,Theft From Building,171
+78745,Theft From Person,269
+78745,Theft Of Auto Parts,386
+78745,Theft Of Bicycle,824
+78745,Theft Of License Plate,640
+78745,Theft Of Trailer,284
+78745,Unlawful Carrying Weapon,279
+78745,Violation City Ordinance,751
+78746,Aggravated Assault,97
+78746,Aggravated Robbery,119
+78746,Assault By Contact,231
+78746,Assault On Public Servant,14
+78746,Assault With Injury,580
+78746,Auto Theft,722
+78746,Burglary Non Residence,367
+78746,Burglary Of Residence,523
+78746,Burglary Of Vehicle,6278
+78746,Counterfeiting,34
+78746,Criminal Mischief,1296
+78746,Criminal Trespass,228
+78746,DWI,991
+78746,Dating Disturbance,92
+78746,Deadly Conduct,14
+78746,Debit/Credit Card Abuse,549
+78746,Disturbance - Other,454
+78746,Driving While Intox / Felony,27
+78746,Family Disturbance,932
+78746,Forgery - Other,37
+78746,Fraud - Other,306
+78746,Harassment,627
+78746,Identity Theft,448
+78746,Narcotic Possession,181
+78746,Possession of Drug,152
+78746,Prostitution,1
+78746,Robbery By Threat,14
+78746,Terroristic Threat,130
+78746,Theft,5285
+78746,Theft By Shoplifting,2575
+78746,Theft Catalytic Converter,75
+78746,Theft From Auto,106
+78746,Theft From Building,77
+78746,Theft From Person,522
+78746,Theft Of Auto Parts,45
+78746,Theft Of Bicycle,258
+78746,Theft Of License Plate,98
+78746,Theft Of Trailer,39
+78746,Unlawful Carrying Weapon,17
+78746,Violation City Ordinance,609
+78747,Aggravated Assault,196
+78747,Aggravated Robbery,42
+78747,Assault By Contact,233
+78747,Assault On Public Servant,2
+78747,Assault With Injury,879
+78747,Auto Theft,326
+78747,Burglary Non Residence,235
+78747,Burglary Of Residence,795
+78747,Burglary Of Vehicle,1627
+78747,Counterfeiting,5
+78747,Criminal Mischief,981
+78747,Criminal Trespass,97
+78747,DWI,431
+78747,Dating Disturbance,97
+78747,Deadly Conduct,43
+78747,Debit/Credit Card Abuse,293
+78747,Disturbance - Other,379
+78747,Driving While Intox / Felony,35
+78747,Family Disturbance,2332
+78747,Forgery - Other,16
+78747,Fraud - Other,286
+78747,Harassment,682
+78747,Identity Theft,359
+78747,Narcotic Possession,116
+78747,Possession of Drug,60
+78747,Prostitution,3
+78747,Robbery By Threat,7
+78747,Terroristic Threat,127
+78747,Theft,996
+78747,Theft By Shoplifting,28
+78747,Theft Catalytic Converter,42
+78747,Theft From Auto,72
+78747,Theft From Building,15
+78747,Theft From Person,10
+78747,Theft Of Auto Parts,41
+78747,Theft Of Bicycle,38
+78747,Theft Of License Plate,64
+78747,Theft Of Trailer,31
+78747,Unlawful Carrying Weapon,21
+78747,Violation City Ordinance,11
+78748,Aggravated Assault,778
+78748,Aggravated Robbery,288
+78748,Assault By Contact,1252
+78748,Assault On Public Servant,28
+78748,Assault With Injury,3830
+78748,Auto Theft,1429
+78748,Burglary Non Residence,1031
+78748,Burglary Of Residence,2731
+78748,Burglary Of Vehicle,7327
+78748,Counterfeiting,116
+78748,Criminal Mischief,4531
+78748,Criminal Trespass,911
+78748,DWI,1654
+78748,Dating Disturbance,527
+78748,Deadly Conduct,66
+78748,Debit/Credit Card Abuse,1403
+78748,Disturbance - Other,1952
+78748,Driving While Intox / Felony,103
+78748,Family Disturbance,9066
+78748,Forgery - Other,139
+78748,Fraud - Other,961
+78748,Harassment,2825
+78748,Identity Theft,1243
+78748,Narcotic Possession,799
+78748,Possession of Drug,386
+78748,Prostitution,19
+78748,Robbery By Threat,46
+78748,Terroristic Threat,604
+78748,Theft,7971
+78748,Theft By Shoplifting,3121
+78748,Theft Catalytic Converter,175
+78748,Theft From Auto,390
+78748,Theft From Building,85
+78748,Theft From Person,87
+78748,Theft Of Auto Parts,193
+78748,Theft Of Bicycle,321
+78748,Theft Of License Plate,320
+78748,Theft Of Trailer,128
+78748,Unlawful Carrying Weapon,104
+78748,Violation City Ordinance,155
+78749,Aggravated Assault,297
+78749,Aggravated Robbery,120
+78749,Assault By Contact,601
+78749,Assault On Public Servant,10
+78749,Assault With Injury,1771
+78749,Auto Theft,670
+78749,Burglary Non Residence,514
+78749,Burglary Of Residence,1615
+78749,Burglary Of Vehicle,6170
+78749,Counterfeiting,68
+78749,Criminal Mischief,3234
+78749,Criminal Trespass,297
+78749,DWI,966
+78749,Dating Disturbance,266
+78749,Deadly Conduct,27
+78749,Debit/Credit Card Abuse,1098
+78749,Disturbance - Other,1203
+78749,Driving While Intox / Felony,63
+78749,Family Disturbance,4182
+78749,Forgery - Other,103
+78749,Fraud - Other,673
+78749,Harassment,1850
+78749,Identity Theft,900
+78749,Narcotic Possession,250
+78749,Possession of Drug,175
+78749,Prostitution,3
+78749,Robbery By Threat,26
+78749,Terroristic Threat,339
+78749,Theft,4752
+78749,Theft By Shoplifting,1317
+78749,Theft Catalytic Converter,70
+78749,Theft From Auto,194
+78749,Theft From Building,72
+78749,Theft From Person,52
+78749,Theft Of Auto Parts,108
+78749,Theft Of Bicycle,306
+78749,Theft Of License Plate,175
+78749,Theft Of Trailer,57
+78749,Unlawful Carrying Weapon,47
+78749,Violation City Ordinance,79
+78750,Aggravated Assault,237
+78750,Aggravated Robbery,91
+78750,Assault By Contact,303
+78750,Assault On Public Servant,6
+78750,Assault With Injury,1156
+78750,Auto Theft,399
+78750,Burglary Non Residence,459
+78750,Burglary Of Residence,806
+78750,Burglary Of Vehicle,3452
+78750,Counterfeiting,31
+78750,Criminal Mischief,1964
+78750,Criminal Trespass,222
+78750,DWI,847
+78750,Dating Disturbance,203
+78750,Deadly Conduct,29
+78750,Debit/Credit Card Abuse,608
+78750,Disturbance - Other,974
+78750,Driving While Intox / Felony,60
+78750,Family Disturbance,3115
+78750,Forgery - Other,48
+78750,Fraud - Other,429
+78750,Harassment,1019
+78750,Identity Theft,639
+78750,Narcotic Possession,219
+78750,Possession of Drug,142
+78750,Prostitution,12
+78750,Robbery By Threat,20
+78750,Terroristic Threat,293
+78750,Theft,2448
+78750,Theft By Shoplifting,244
+78750,Theft Catalytic Converter,55
+78750,Theft From Auto,107
+78750,Theft From Building,52
+78750,Theft From Person,20
+78750,Theft Of Auto Parts,66
+78750,Theft Of Bicycle,173
+78750,Theft Of License Plate,131
+78750,Theft Of Trailer,43
+78750,Unlawful Carrying Weapon,35
+78750,Violation City Ordinance,93
+78751,Aggravated Assault,464
+78751,Aggravated Robbery,353
+78751,Assault By Contact,11182
+78751,Assault On Public Servant,52
+78751,Assault With Injury,3731
+78751,Auto Theft,1345
+78751,Burglary Non Residence,1177
+78751,Burglary Of Residence,2031
+78751,Burglary Of Vehicle,6930
+78751,Counterfeiting,62
+78751,Criminal Mischief,3364
+78751,Criminal Trespass,1568
+78751,DWI,1641
+78751,Dating Disturbance,344
+78751,Deadly Conduct,27
+78751,Debit/Credit Card Abuse,615
+78751,Disturbance - Other,1479
+78751,Driving While Intox / Felony,81
+78751,Family Disturbance,2739
+78751,Forgery - Other,72
+78751,Fraud - Other,365
+78751,Harassment,1286
+78751,Identity Theft,426
+78751,Narcotic Possession,850
+78751,Possession of Drug,519
+78751,Prostitution,64
+78751,Robbery By Threat,46
+78751,Terroristic Threat,393
+78751,Theft,6156
+78751,Theft By Shoplifting,2091
+78751,Theft Catalytic Converter,136
+78751,Theft From Auto,276
+78751,Theft From Building,126
+78751,Theft From Person,101
+78751,Theft Of Auto Parts,130
+78751,Theft Of Bicycle,1486
+78751,Theft Of License Plate,246
+78751,Theft Of Trailer,87
+78751,Unlawful Carrying Weapon,80
+78751,Violation City Ordinance,346
+78752,Aggravated Assault,1554
+78752,Aggravated Robbery,1149
+78752,Assault By Contact,1234
+78752,Assault On Public Servant,79
+78752,Assault With Injury,5576
+78752,Auto Theft,2364
+78752,Burglary Non Residence,1218
+78752,Burglary Of Residence,2850
+78752,Burglary Of Vehicle,10189
+78752,Counterfeiting,126
+78752,Criminal Mischief,4507
+78752,Criminal Trespass,3050
+78752,DWI,3022
+78752,Dating Disturbance,339
+78752,Deadly Conduct,116
+78752,Debit/Credit Card Abuse,801
+78752,Disturbance - Other,2312
+78752,Driving While Intox / Felony,195
+78752,Family Disturbance,7195
+78752,Forgery - Other,123
+78752,Fraud - Other,511
+78752,Harassment,2181
+78752,Identity Theft,654
+78752,Narcotic Possession,2152
+78752,Possession of Drug,1675
+78752,Prostitution,636
+78752,Robbery By Threat,100
+78752,Terroristic Threat,862
+78752,Theft,8702
+78752,Theft By Shoplifting,1928
+78752,Theft Catalytic Converter,164
+78752,Theft From Auto,461
+78752,Theft From Building,155
+78752,Theft From Person,370
+78752,Theft Of Auto Parts,181
+78752,Theft Of Bicycle,499
+78752,Theft Of License Plate,333
+78752,Theft Of Trailer,85
+78752,Unlawful Carrying Weapon,208
+78752,Violation City Ordinance,536
+78753,Aggravated Assault,3074
+78753,Aggravated Robbery,1986
+78753,Assault By Contact,2666
+78753,Assault On Public Servant,163
+78753,Assault With Injury,11254
+78753,Auto Theft,5141
+78753,Burglary Non Residence,2742
+78753,Burglary Of Residence,6382
+78753,Burglary Of Vehicle,16876
+78753,Counterfeiting,289
+78753,Criminal Mischief,10098
+78753,Criminal Trespass,5034
+78753,DWI,5087
+78753,Dating Disturbance,1102
+78753,Deadly Conduct,262
+78753,Debit/Credit Card Abuse,2087
+78753,Disturbance - Other,5082
+78753,Driving While Intox / Felony,322
+78753,Family Disturbance,17493
+78753,Forgery - Other,278
+78753,Fraud - Other,1093
+78753,Harassment,4448
+78753,Identity Theft,1765
+78753,Narcotic Possession,4052
+78753,Possession of Drug,3567
+78753,Prostitution,1395
+78753,Robbery By Threat,196
+78753,Terroristic Threat,1760
+78753,Theft,17774
+78753,Theft By Shoplifting,8045
+78753,Theft Catalytic Converter,304
+78753,Theft From Auto,938
+78753,Theft From Building,193
+78753,Theft From Person,528
+78753,Theft Of Auto Parts,475
+78753,Theft Of Bicycle,488
+78753,Theft Of License Plate,766
+78753,Theft Of Trailer,320
+78753,Unlawful Carrying Weapon,383
+78753,Violation City Ordinance,1717
+78754,Aggravated Assault,376
+78754,Aggravated Robbery,137
+78754,Assault By Contact,418
+78754,Assault On Public Servant,7
+78754,Assault With Injury,1566
+78754,Auto Theft,744
+78754,Burglary Non Residence,649
+78754,Burglary Of Residence,1059
+78754,Burglary Of Vehicle,3213
+78754,Counterfeiting,34
+78754,Criminal Mischief,1507
+78754,Criminal Trespass,188
+78754,DWI,470
+78754,Dating Disturbance,165
+78754,Deadly Conduct,57
+78754,Debit/Credit Card Abuse,437
+78754,Disturbance - Other,664
+78754,Driving While Intox / Felony,42
+78754,Family Disturbance,2848
+78754,Forgery - Other,50
+78754,Fraud - Other,344
+78754,Harassment,1102
+78754,Identity Theft,495
+78754,Narcotic Possession,574
+78754,Possession of Drug,83
+78754,Prostitution,88
+78754,Robbery By Threat,18
+78754,Terroristic Threat,333
+78754,Theft,2307
+78754,Theft By Shoplifting,123
+78754,Theft Catalytic Converter,157
+78754,Theft From Auto,180
+78754,Theft From Building,52
+78754,Theft From Person,35
+78754,Theft Of Auto Parts,114
+78754,Theft Of Bicycle,47
+78754,Theft Of License Plate,127
+78754,Theft Of Trailer,103
+78754,Unlawful Carrying Weapon,27
+78754,Violation City Ordinance,55
+78756,Aggravated Assault,149
+78756,Aggravated Robbery,88
+78756,Assault By Contact,301
+78756,Assault On Public Servant,14
+78756,Assault With Injury,767
+78756,Auto Theft,440
+78756,Burglary Non Residence,666
+78756,Burglary Of Residence,745
+78756,Burglary Of Vehicle,2254
+78756,Counterfeiting,21
+78756,Criminal Mischief,1297
+78756,Criminal Trespass,414
+78756,DWI,631
+78756,Dating Disturbance,126
+78756,Deadly Conduct,12
+78756,Debit/Credit Card Abuse,333
+78756,Disturbance - Other,687
+78756,Driving While Intox / Felony,31
+78756,Family Disturbance,1302
+78756,Forgery - Other,46
+78756,Fraud - Other,200
+78756,Harassment,754
+78756,Identity Theft,266
+78756,Narcotic Possession,133
+78756,Possession of Drug,133
+78756,Prostitution,3
+78756,Robbery By Threat,16
+78756,Terroristic Threat,162
+78756,Theft,2345
+78756,Theft By Shoplifting,504
+78756,Theft Catalytic Converter,58
+78756,Theft From Auto,73
+78756,Theft From Building,64
+78756,Theft From Person,29
+78756,Theft Of Auto Parts,46
+78756,Theft Of Bicycle,451
+78756,Theft Of License Plate,92
+78756,Theft Of Trailer,57
+78756,Unlawful Carrying Weapon,24
+78756,Violation City Ordinance,70
+78757,Aggravated Assault,582
+78757,Aggravated Robbery,366
+78757,Assault By Contact,753
+78757,Assault On Public Servant,22
+78757,Assault With Injury,2533
+78757,Auto Theft,1404
+78757,Burglary Non Residence,1822
+78757,Burglary Of Residence,2260
+78757,Burglary Of Vehicle,8192
+78757,Counterfeiting,90
+78757,Criminal Mischief,3601
+78757,Criminal Trespass,1033
+78757,DWI,1752
+78757,Dating Disturbance,266
+78757,Deadly Conduct,38
+78757,Debit/Credit Card Abuse,918
+78757,Disturbance - Other,1600
+78757,Driving While Intox / Felony,88
+78757,Family Disturbance,4256
+78757,Forgery - Other,132
+78757,Fraud - Other,627
+78757,Harassment,1678
+78757,Identity Theft,754
+78757,Narcotic Possession,527
+78757,Possession of Drug,327
+78757,Prostitution,28
+78757,Robbery By Threat,42
+78757,Terroristic Threat,479
+78757,Theft,5906
+78757,Theft By Shoplifting,1215
+78757,Theft Catalytic Converter,135
+78757,Theft From Auto,331
+78757,Theft From Building,95
+78757,Theft From Person,102
+78757,Theft Of Auto Parts,171
+78757,Theft Of Bicycle,616
+78757,Theft Of License Plate,250
+78757,Theft Of Trailer,161
+78757,Unlawful Carrying Weapon,61
+78757,Violation City Ordinance,198
+78758,Aggravated Assault,2948
+78758,Aggravated Robbery,2090
+78758,Assault By Contact,2706
+78758,Assault On Public Servant,190
+78758,Assault With Injury,11177
+78758,Auto Theft,4945
+78758,Burglary Non Residence,2792
+78758,Burglary Of Residence,6866
+78758,Burglary Of Vehicle,17273
+78758,Counterfeiting,209
+78758,Criminal Mischief,10791
+78758,Criminal Trespass,3487
+78758,DWI,4700
+78758,Dating Disturbance,1004
+78758,Deadly Conduct,252
+78758,Debit/Credit Card Abuse,2041
+78758,Disturbance - Other,5613
+78758,Driving While Intox / Felony,257
+78758,Family Disturbance,17323
+78758,Forgery - Other,290
+78758,Fraud - Other,1201
+78758,Harassment,4709
+78758,Identity Theft,1739
+78758,Narcotic Possession,2493
+78758,Possession of Drug,1424
+78758,Prostitution,223
+78758,Robbery By Threat,151
+78758,Terroristic Threat,1807
+78758,Theft,13948
+78758,Theft By Shoplifting,3810
+78758,Theft Catalytic Converter,372
+78758,Theft From Auto,865
+78758,Theft From Building,233
+78758,Theft From Person,513
+78758,Theft Of Auto Parts,473
+78758,Theft Of Bicycle,781
+78758,Theft Of License Plate,838
+78758,Theft Of Trailer,344
+78758,Unlawful Carrying Weapon,321
+78758,Violation City Ordinance,877
+78759,Aggravated Assault,516
+78759,Aggravated Robbery,268
+78759,Assault By Contact,815
+78759,Assault On Public Servant,60
+78759,Assault With Injury,2670
+78759,Auto Theft,1636
+78759,Burglary Non Residence,1536
+78759,Burglary Of Residence,1979
+78759,Burglary Of Vehicle,15408
+78759,Counterfeiting,119
+78759,Criminal Mischief,4398
+78759,Criminal Trespass,868
+78759,DWI,2845
+78759,Dating Disturbance,503
+78759,Deadly Conduct,48
+78759,Debit/Credit Card Abuse,1413
+78759,Disturbance - Other,1917
+78759,Driving While Intox / Felony,164
+78759,Family Disturbance,5468
+78759,Forgery - Other,196
+78759,Fraud - Other,771
+78759,Harassment,2403
+78759,Identity Theft,1325
+78759,Narcotic Possession,689
+78759,Possession of Drug,392
+78759,Prostitution,61
+78759,Robbery By Threat,45
+78759,Terroristic Threat,595
+78759,Theft,7682
+78759,Theft By Shoplifting,2501
+78759,Theft Catalytic Converter,233
+78759,Theft From Auto,429
+78759,Theft From Building,166
+78759,Theft From Person,117
+78759,Theft Of Auto Parts,327
+78759,Theft Of Bicycle,385
+78759,Theft Of License Plate,422
+78759,Theft Of Trailer,146
+78759,Unlawful Carrying Weapon,91
+78759,Violation City Ordinance,222
